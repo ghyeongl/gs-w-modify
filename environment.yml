@@ -1,4 +1,4 @@
-name: GS-W
+name: gh-gsw
 channels:
   - pytorch
   - conda-forge
